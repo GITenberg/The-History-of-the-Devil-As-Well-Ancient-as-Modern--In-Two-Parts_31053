@@ -17,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31053#The-History-of-the-Devil-As-Well-Ancient-as-Modern--In-Two-Parts
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2010-01-23'
 gutenberg_type: Text
